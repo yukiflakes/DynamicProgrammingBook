@@ -4,3 +4,6 @@
 
 # More Video Sources
 (https://www.youtube.com/watch?v=tb_14w_-mNw&list=PLfBJlB6T2eOtMXgK3FLUTawHjzpIEySHF)
+
+# Others
+[Article](https://www.topcoder.com/community/competitive-programming/tutorials/dynamic-programming-from-novice-to-advanced/)
